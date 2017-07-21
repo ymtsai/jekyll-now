@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: mtsai
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: public health nutritionist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://pbs.twimg.com/profile_images/823364105004269570/t3l8n1Og_400x400.jpg
 #
 # Flags below are optional
 #
@@ -18,15 +17,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: youmingtsai@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: ymtsai
   instagram:
-  linkedin:
+  linkedin: maggie-tsai
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: maggieytsai
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
