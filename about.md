@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I dislike writing immensely
+i could definitely work on my writing
 
 ### More Information
 
